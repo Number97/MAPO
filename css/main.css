@@ -1,0 +1,36 @@
+footer {
+    background: linear-gradient(to right, #263238, #37474f);
+}
+footer p {
+    color: #e5e5e5;
+}
+main{
+    background: linear-gradient(to bottom right, #28313B, #485461);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input-group {
+    width: 300px;
+}
+.row {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.background-image {
+    background-image: url('../img/MAPO2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
