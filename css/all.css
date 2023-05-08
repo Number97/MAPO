@@ -4,3 +4,14 @@ footer {
 footer p {
     color: #e5e5e5;
 }
+.row {
+    margin: 0;
+}
+.row>* {
+    padding: 0;
+}
+p {
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

@@ -45,22 +45,38 @@ h1 {
     text-align: justify;
     color: #9BA4B5;
 }
-.list-group {
-    margin: 15px;
-    margin-top: 0px;
+.transport-line-list-col {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-.list-group-item {
-    background-color: #b7c9e2;
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 0;
-}
+
 .transport-logo{
-    margin-right: 15px;
-}
-.transport-line-first {
-    margin-left: 15px;
+    margin-left: 20px;
 }
 .transport-line-more {
-    margin-left: 5px;
+    margin-left: 15px;
+}
+.official-site-col {
+    margin: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.btn-light {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.site-link-logo {
+    margin: 0px;
+    margin-left: 30px;
+}
+.pricing-col {
+    margin-left: 15px;
+    text-align: justify;
+    color: #9BA4B5;
 }
