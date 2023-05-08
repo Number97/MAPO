@@ -1,9 +1,3 @@
-footer {
-    background: linear-gradient(to right, #263238, #37474f);
-}
-footer p {
-    color: #e5e5e5;
-}
 main{
     background: linear-gradient(to bottom right, #28313B, #485461);
     height: 100vh;
@@ -20,7 +14,7 @@ main{
 .input-group {
     width: 300px;
 }
-.row {
+.container .row {
     height: 200px;
     justify-content: center;
     align-items: center;
