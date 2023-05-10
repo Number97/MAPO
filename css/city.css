@@ -9,6 +9,9 @@ main{
     padding: 0;
     margin: 0;
 }
+.list-group-item {
+    padding: 10px;
+}
 .header-row {
     height: 60px;
     background-color: #394867;
@@ -55,12 +58,27 @@ h1 {
     border-radius: 5px;
     border: 0;
 }
-.transport-logo{
+.transport-type-logo {
+    width: 40px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+.transport-type-title {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    display: flex; 
+    align-items: center;
+    font-size: 20px;
+}
+.transport-logo { 
     margin-right: 15px;
+    width: 40px;
+    height: 40px;
 }
-.transport-line-first {
-    margin-left: 15px;
-}
-.transport-line-more {
+.transport-line {
+    width: 25px;
+    height: 25px;
     margin-left: 5px;
+    margin-bottom: 5px;
 }
