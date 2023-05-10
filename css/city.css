@@ -1,6 +1,6 @@
 main{
     background: linear-gradient(to bottom right, #28313B, #485461);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
 }
 .container {

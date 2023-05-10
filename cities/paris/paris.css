@@ -1,0 +1,17 @@
+.transport-line-bus {
+    width: 40px;
+    height: 25px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.aeroport-logo { 
+    margin-right: 25px;
+    width: 70px;
+    height: 40px;
+}
+.aeroport-line {
+    width: 100px;
+    height: 25px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
